@@ -9,7 +9,7 @@ venv/
 env/
 *.venv
 
-# Configurações do PyInstaller (evita subir arquivos do .exe gerado)
+# Configurações do PyInstaller 
 dist/
 build/
 *.spec
