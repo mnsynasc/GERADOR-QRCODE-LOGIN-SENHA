@@ -1,0 +1,23 @@
+# Arquivos do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambientes Virtuais
+venv/
+env/
+*.venv
+
+# Configurações do PyInstaller (evita subir arquivos do .exe gerado)
+dist/
+build/
+*.spec
+
+# Arquivos de log e cache
+*.log
+*.tmp
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
